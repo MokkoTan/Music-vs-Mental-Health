@@ -29,6 +29,9 @@ Music has been called the greatest human creation throughout history. The fundam
 
 Many researchers found that music has benefits to medical treatment. Music boosts our mood and well-being, and music therapy may help during treatments for certain health conditions.
 
+> ### What is Music Therapy
+> _A type of therapy that uses music to help improve a person's overall health and well-being. It may include creating, singing, moving, listening, and/or relaxing to music._
+
 ## My Role and Objectives 
 
 In this study, my role is a Music Therapist in one of the Government Hospital. Though this study and research, my objective is to identify what, if any, correlations exist between
