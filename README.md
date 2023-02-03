@@ -4,12 +4,12 @@
 ![Music Banner](https://mainstaymusictherapy.files.wordpress.com/2022/02/aqua-background-store-header.png)
 
 ##### Data source from _Kaggle.com_ 
-
+.
 
 >
 >Kaggle is an online community platform for data scientists and machine learning enthusiasts. Kaggle allows users to collaborate with other users, find and publish datasets, use GPU integrated notebooks, and compete with other data scientists to solve data science challenges.
 
-
+.
 #### Data Origin
 Source Name:		Music & Mental Health Survey Result
 Format:		‘CSV’
@@ -22,21 +22,18 @@ Records:		24,321
 .
 
 
-[![N|Solid](https://imgur.com/h8JYpQ7.jpg)](https://nodesource.com/products/nsolid)  
+[![N|Solid](https://imgur.com/h8JYpQ7.jpg)](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results)  
 
 ## Context
 Music has been called the greatest human creation throughout history. The fundamental definition of music is pure and unadulterated creativity. Music is a crucial element of our lives since it allows us to express our emotions and sentiments. Some people regard music as a means of escaping from life’s difficulties.
 
 Many researchers found that music has benefits to medical treatment. Music boosts our mood and well-being, and music therapy may help during treatments for certain health conditions.
 
-> ### What is Music Therapy
-> _A type of therapy that uses music to help improve a person's overall health and well-being. It may include creating, singing, moving, listening, and/or relaxing to music._
-
 ## My Role and Objectives 
 
 In this study, my role is a Music Therapist in one of the Government Hospital. Though this study and research, my objective is to identify what, if any, correlations exist between
 
-- individual's music taste and their self-reported mental health. 
+####  _individual's music taste and their self-reported mental health_
 
 
 Ideally, these findings could contribute to a more informed application of Music Therapy or simply provide interesting sights about the mind
@@ -75,8 +72,18 @@ Top Bar Buttons indicate the percentage of respondents per Age Group. It's also 
 ## Personal Thoughts
 Through out this Data Analysis exercise, I realised data are not just a sheet of numbers. It can be simplified, clean up, rearrange, filter and even visualise through a simple Dashboard.
 
+Based on the Dashboard I created, I'm able to read the various data and conclude that listening to individual's favourite genre are generally helping respondent to improve their mental health. Besides that, being a composer and instrumentalist are able to improve individual's mental health. This is because writng a song, playing an intrument is part of the process of Music Therapy. Nevertheless, explore other type of genre even listening to foreign language music may also helps to improve mental health.
+
+
+
+
 ### Reference
 1. Singapore Age Structure 
 https://www.indexmundi.com/singapore/age_structure.html#:~:text=Definition%3A%20This%20entry%20provides%20the,years%20and%20over%20(elderly
 2. Color Psychology: Does It Affect How You Feel?
 https://www.verywellmind.com/color-psychology-2795824
+
+
+
+
+[![N|Solid](https://imgur.com/fPoq1nV.jpg)](https://www.linkedin.com/in/mokko-tan-3222b91b4/)  
